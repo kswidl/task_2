@@ -1,0 +1,12 @@
+{
+  "name": "fibonacci-library",
+  "version": "1.0.0",
+  "description": "Simple Fibonacci generator library",
+  "main": "lib/fibonacci.js",
+  "scripts": {
+    "start": "node example/app.js"
+  },
+  "keywords": ["fibonacci", "generator"],
+  "author": "Kim Kira",
+  "license": "MIT"
+}
